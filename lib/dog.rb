@@ -1,6 +1,6 @@
 class Dog
 end
 
-bowser = Dog.new
-topher = Dog.new
-mango = Dog.new
+fido = Dog.new
+snoopy = Dog.new
+lassie = Dog.new
